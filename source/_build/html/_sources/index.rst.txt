@@ -1,20 +1,20 @@
-.. Mio documentation master file, created by
-   sphinx-quickstart on Thu Jul  2 10:43:08 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
-Welcome to Mio's documentation!
-===============================
+欢迎来到Mio 机器人教程
+==================================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :glob:
+   
+   lingjian/index
+   tongxun/index
+   shuru/index
+   newing/index
+   download/index
+   wenti/index
 
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
+
